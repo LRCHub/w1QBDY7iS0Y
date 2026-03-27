@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Everything I Am（feat. Furui Riho）",
+  "base_artist": "三浦大知",
+  "createdAt": "2026-03-27T10:41:00.982554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everything I Am feat. Furui Riho",
+      "artist": "Daichi Miura; Furui Riho",
+      "has_synced": true,
+      "path": "select/01_Everything_I_Am_feat._Furui_Riho_Daichi_Miura;_Furui_Riho.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everything I Am (feat. DJ Premier)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/02_Everything_I_Am_(feat._DJ_Premier)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everything I Am (feat. DJ Premier)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/03_Everything_I_Am_(feat._DJ_Premier)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "10 - Everything I Am feat. DJ Premier",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/04_10_-_Everything_I_Am_feat._DJ_Premier_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Everything I Am (feat. DJ Premier)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/05_Everything_I_Am_(feat._DJ_Premier)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everything I Am feat. DJ Premier",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/06_Everything_I_Am_feat._DJ_Premier_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Everything I Am feat. Scratches by DJ Premier",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/07_Everything_I_Am_feat._Scratches_by_DJ_Premier_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everything I Am (feat. DJ Premier)",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/08_Everything_I_Am_(feat._DJ_Premier)_Kanye_West.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everything I Am feat. DJ Premier",
+      "artist": "Kanye West feat. DJ Premier",
+      "has_synced": true,
+      "path": "select/09_Everything_I_Am_feat._DJ_Premier_Kanye_West_feat._DJ_Premier.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everything I Am (feat. DJ Premier)",
+      "artist": "Ye",
+      "has_synced": true,
+      "path": "select/10_Everything_I_Am_(feat._DJ_Premier)_Ye.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everything I Am (feat. DJ Premier)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/11_Everything_I_Am_(feat._DJ_Premier)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everything I Am (feat. DJ Premier) - Hiphopde.com",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/12_Everything_I_Am_(feat._DJ_Premier)_-_Hiphopde.com_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Everything I Am (feat. DJ Premier)",
+      "artist": "Kanye West/DJ Premier",
+      "has_synced": true,
+      "path": "select/13_Everything_I_Am_(feat._DJ_Premier)_Kanye_West_DJ_Premier.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everything I Am [feat. DJ Premier] [Clean]",
+      "artist": "Kanye West feat. DJ Premier",
+      "has_synced": true,
+      "path": "select/14_Everything_I_Am_[feat._DJ_Premier]_[Clean]_Kanye_West_feat._DJ_Premier.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everything I Am feat. Furui Riho",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_Everything_I_Am_feat._Furui_Riho_三浦_大知.txt"
+    }
+  ]
+}
